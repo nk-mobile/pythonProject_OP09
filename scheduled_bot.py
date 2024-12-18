@@ -3,7 +3,7 @@ import schedule
 import time
 
 # Токен вашего бота, полученный от BotFather
-BOT_TOKEN = '7933251959:AAG7F0QYgG1juM_AAT3I6oJCszUoteKazO4'
+BOT_TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Создаем экземпляр бота
 bot = telebot.TeleBot(BOT_TOKEN)
